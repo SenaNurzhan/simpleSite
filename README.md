@@ -1,2 +1,2 @@
 # simpleSite
-Html, CSS, JS simple website with adaptation
+Html, CSS, JS site with adaptation and animation
